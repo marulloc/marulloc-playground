@@ -11,30 +11,12 @@
             "id": "2d817366f591d7a5",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "About Me.md",
-                "mode": "source",
-                "source": false
+                "file": "_Draft/Resume - 조병건 2024 (1).pdf"
               },
-              "icon": "lucide-file",
-              "title": "About Me"
-            }
-          }
-        ]
-      },
-      {
-        "id": "8acd24b1ee30ca24",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "70960c8948ea5e4a",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "icon": "lucide-file-text",
+              "title": "Resume - 조병건 2024 (1)"
             }
           }
         ]
@@ -178,9 +160,53 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "2d817366f591d7a5",
+  "active": "9ab625fc23e5ec35",
   "lastOpenFiles": [
-    "create a link.md",
-    "About Me.md"
+    "_Draft/blog-post/트러블슈팅/OAuth 2.0의 State Parameter를 활용한 추천인 코드 전달.md",
+    "_Draft/blog-post/트러블슈팅",
+    "_Draft/blog-post/명진 강빈이와 서비스.md",
+    "_Draft/blog-post/독서/소프트웨어 장인.md",
+    "_Draft/blog-post/독서/구글 엔지니어는 이렇게 일한다.md",
+    "_Draft/blog-post/독서",
+    "_Draft/blog-post/__.md",
+    "_Draft/blog-post/Screenshot 2024-04-23 at 6.36.06 PM.png",
+    "_Draft/blog-post/Screenshot 2024-04-23 at 5.47.22 PM.png",
+    "_Draft/blog-post/Screenshot 2024-04-23 at 5.36.46 PM.png",
+    "_Draft/blog-post/Screenshot 2024-04-23 at 5.36.23 PM.png",
+    "_Draft/blog-post/Screenshot 2024-04-23 at 11.51.51 PM.png",
+    "_Draft/blog-post/Screenshot 2024-04-06 at 12.17.37 AM.png",
+    "_Draft/blog-post/README.md",
+    "_Draft/blog-post/Pasted image 20240407005038.png",
+    "_Draft/blog-post/5. Backend/99. Design Pattern",
+    "_Draft/blog-post/5. Backend/2. Nest",
+    "_Draft/blog-post/5. Backend/1. Express",
+    "_Draft/blog-post/5. Backend",
+    "_Draft/blog-post/4. Frontend/3. State Management/Redux/2. Redux Thunk & Middleware.md",
+    "_Draft/blog-post/4. Frontend/3. State Management/Redux/1. Redux 동작원리.md",
+    "_Draft/blog-post/4. Frontend/3. State Management/Redux/0. FLUX.md",
+    "_Draft/blog-post/4. Frontend/3. State Management/React-Query/Untitled.md",
+    "_Draft/blog-post/4. Frontend/98. Optimizing/2. 렌더링 최적화.md",
+    "_Draft/blog-post/4. Frontend/98. Optimizing/1. 네트워크 최적화.md",
+    "_Draft/blog-post/4. Frontend/98. Optimizing/0. 성능지표.md",
+    "_Draft/blog-post/4. Frontend/97. SEO & Web Accessibility/웹 접근성.md",
+    "_Draft/blog-post/4. Frontend/97. SEO & Web Accessibility/SEO.md",
+    "_Draft/blog-post/4. Frontend/5. Module Bundler/0..md",
+    "_Draft/blog-post/4. Frontend/4. Styling/Tailwind",
+    "_Draft/blog-post/4. Frontend/4. Styling/SCSS",
+    "_Draft/blog-post/4. Frontend/4. Styling/CSS-in-JS",
+    "_Draft/blog-post/4. Frontend/3. State Management/Redux",
+    "_Draft/blog-post/4. Frontend/2. Next/1. SSR vs RSC with Suspense.md",
+    "_Draft/blog-post/4. Frontend/2. Next/0. CSR vs SSR vs SSG.md",
+    "_Draft/blog-post/4. Frontend/1. React/6. Hooks.md",
+    "_Draft/blog-post/4. Frontend/1. React/5. Suspense & Error Boundary - Throw Object.md",
+    "_Draft/blog-post/4. Frontend/1. React/4. React  18.md",
+    "_Draft/blog-post/4. Frontend/1. React/3. React - Rendering.md",
+    "_Draft/blog-post/4. Frontend/1. React/2. React - VirtualDOM.md",
+    "_Draft/blog-post/4. Frontend/1. React/1. React - State with Async Batch.md",
+    "_Draft/blog-post/4. Frontend/1. React/0. SPA vs MPA.md",
+    "_Draft/blog-post/4. Frontend/1. React/0. React, JSX , Props & State.md",
+    "_Draft/Screenshot 2024-03-13 at 11.10.20 AM.png",
+    "_Draft/Screenshot 2024-03-13 at 11.10.09 AM.png",
+    "_Draft/Screenshot 2024-03-13 at 11.07.47 AM.png"
   ]
 }
